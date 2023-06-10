@@ -1,7 +1,8 @@
 # Angelia_iBom
 Kicad iBom for OpenHPSDR Angelia SDR main board (reversing)
 
-![Kicad iBom for OpenHPSDR Angelia](https://github.com/F6ITU/K_Munin400/blob/main/K_Munin400.png)
+![Kicad iBom for OpenHPSDR Angelia](https://github.com/F6ITU/Angelia_iBom/blob/main/documentation/under_dev.png)
+
 
 This repository is dedicated to all people wishing to home-built the OpenHPSDR Angelia board. 
 
