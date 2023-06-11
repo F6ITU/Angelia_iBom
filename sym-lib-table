@@ -17,4 +17,5 @@
   (lib (name "RF_Filter")(type "Legacy")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/libs/filtres RF/RF_Filter.lib")(options "")(descr ""))
   (lib (name "FPGA_Xilinx_Spartan6")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/FPGA_Xilinx_Spartan6.kicad_sym")(options "")(descr ""))
   (lib (name "Analog_ADC")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/Analog_ADC.kicad_sym")(options "")(descr ""))
+  (lib (name "afp05mp075n")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/AFT05MP075N/afp05mp075n.kicad_sym")(options "")(descr ""))
 )
