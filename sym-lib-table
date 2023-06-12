@@ -18,4 +18,6 @@
   (lib (name "FPGA_Xilinx_Spartan6")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/FPGA_Xilinx_Spartan6.kicad_sym")(options "")(descr ""))
   (lib (name "Analog_ADC")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/Analog_ADC.kicad_sym")(options "")(descr ""))
   (lib (name "afp05mp075n")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/AFT05MP075N/afp05mp075n.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_Array")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/Transistor_Array.kicad_sym")(options "")(descr ""))
+  (lib (name "cy_memory")(type "KiCad")(uri "${KICAD7_PRIV_SYMB}/cy_memory.kicad_sym")(options "")(descr ""))
 )
