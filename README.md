@@ -15,4 +15,7 @@ to the rare and brave people who had the chance to get a grip on a bare Angelia 
 # Work in progress
 do NOT use these files as long as this footnote hasn't been deleted
 
+the 3D picture below gives an idea of the progression
+![Kicad angelia virtual board, OpenHPSDR ](https://github.com/F6ITU/Angelia_iBom/blob/main/documentation/angelia3D.png)
+
 
