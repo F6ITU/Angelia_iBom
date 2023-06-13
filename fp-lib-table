@@ -48,4 +48,5 @@
   (lib (name "Package_BGA")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/Footprints/Package_BGA.pretty")(options "")(descr ""))
   (lib (name "Connector_RJ")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/Footprints/Connector_RJ.pretty")(options "")(descr ""))
   (lib (name "Connector_Molex")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/Footprints/Connector_Molex.pretty")(options "")(descr ""))
+  (lib (name "Package_QFP")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/Footprints/Package_QFP.pretty")(options "")(descr ""))
 )
