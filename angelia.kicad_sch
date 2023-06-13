@@ -5606,6 +5606,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 32.385 26.67 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 0634d273-d062-477d-903d-080cbc165159)
+    (property "Reference" "C187" (at 34.7091 26.0326 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 34.7091 27.9536 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 32.385 26.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 32.385 26.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f86e85b7-2f14-45ff-871b-8754f670bbe8))
+    (pin "2" (uuid de3d2c6b-8fe5-4119-9237-e84ea5ddb32c))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C187") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector:ATX-20") (at -24.13 205.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07950104-ce74-4c98-9bc7-7624338a924e)
@@ -7073,6 +7099,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 34.925 41.91 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 1f5141d4-0247-4488-b5a4-f06257ac7198)
+    (property "Reference" "C191" (at 37.2491 41.2726 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "270p" (at 37.2491 43.1936 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 34.925 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 34.925 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid aeefeecc-6aa1-464d-b06b-9488c786b63e))
+    (pin "2" (uuid 23c00895-e9b1-41d7-9910-8726335e1a3d))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C191") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:LED_Small") (at -22.225 53.975 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 208c536b-0532-4f83-9006-c42ba0439c5c)
@@ -7614,6 +7666,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C147") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 22.225 41.91 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 2e2a308e-f5d7-41f5-934b-cb152db1e2ca)
+    (property "Reference" "C149" (at 24.5491 41.2726 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "330n" (at 24.5491 43.1936 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 22.225 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 22.225 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8b75b0d5-10a4-40ff-babc-05a7faf2a170))
+    (pin "2" (uuid 2584beab-67df-4117-a80f-7b8eb840422b))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C149") (unit 1)
         )
       )
     )
@@ -8232,6 +8310,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 20.955 34.29 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4353fb83-c72e-4fe7-94ca-164910c9eecd)
+    (property "Reference" "C88" (at 23.2791 33.6526 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "2.2u" (at 23.2791 35.5736 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 20.955 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 20.955 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dac46184-72c0-41f5-98fb-28b1e74cb57c))
+    (pin "2" (uuid c6a6ef93-2415-4a6b-981e-9375e7f218c4))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C88") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:L") (at -93.98 6.985 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 43922470-f408-47c3-9890-ec51fa48608f)
@@ -8817,6 +8921,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "L43") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 20.955 19.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 51b0728b-5c36-4fca-b3a2-e0a939b5de19)
+    (property "Reference" "C12" (at 23.2791 18.4126 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "200p" (at 23.2791 20.3336 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 20.955 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 20.955 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c1a98f55-68e8-4e90-944a-c831699a0634))
+    (pin "2" (uuid 70e11412-3684-4562-a955-7e13af201b89))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -9649,6 +9779,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 20.32 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 684b5973-cee8-4350-8206-33717e1c4dbf)
+    (property "Reference" "C22" (at 22.6441 22.2226 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "15p" (at 22.6441 24.1436 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 20.32 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 20.32 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 86866369-3e5e-44e3-9b89-87f6e2c7b432))
+    (pin "2" (uuid 4704884a-7976-4d0d-90e1-f11c93f88bed))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -10531,6 +10687,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 20.32 30.48 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 8104440a-5ea3-43fb-9802-1e9fe7e97d45)
+    (property "Reference" "C39" (at 22.6441 29.8426 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "33p" (at 22.6441 31.7636 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 20.32 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 20.32 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0e00fe09-50d0-450a-a513-3b1d8cea307d))
+    (pin "2" (uuid 45927de4-f981-4511-8a82-4f68bbda40d2))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C39") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:Fuse_Small") (at -38.735 62.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82359d00-589e-4be7-9e8b-510a972923e3)
@@ -10792,6 +10974,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "L41") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 33.655 19.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 85ae0364-63b1-4832-ae8b-3f0b4c505301)
+    (property "Reference" "C150" (at 35.9791 18.4126 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "47n" (at 35.9791 20.3336 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 33.655 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 33.655 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 44a7777a-a2fa-4e0f-8a9c-cfb8e0a71718))
+    (pin "2" (uuid b95b7f3a-895c-4426-a406-419c15bc0691))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C150") (unit 1)
         )
       )
     )
@@ -12007,6 +12215,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 19.685 26.67 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid a907c325-74fc-4f4c-9932-3fc1eb19b236)
+    (property "Reference" "C37" (at 22.0091 26.0326 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "33P" (at 22.0091 27.9536 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 19.685 26.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 19.685 26.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4cd671ef-8614-4733-b828-7e475f17a846))
+    (pin "2" (uuid eeebefba-4b1a-437a-a3be-3a8b7442505c))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C37") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:FerriteBead_Small") (at -25.4 111.125 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a96623e9-83b0-4da6-86b8-2ec44df6d3f6)
@@ -12132,6 +12366,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C91") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 53.34 19.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid aecef423-0127-4658-9d89-58041b814fe9)
+    (property "Reference" "C205" (at 55.6641 18.4126 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 55.6641 20.3336 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I" (at 53.34 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 53.34 19.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 45b80620-91fa-41a4-a72d-d178a0a845c5))
+    (pin "2" (uuid 8579ac82-1ac5-486b-a9d9-213adef32a7e))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C205") (unit 1)
         )
       )
     )
@@ -12294,6 +12554,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C96") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 33.02 30.48 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b55fa207-05f4-4ae4-a3dd-f91ce24388fb)
+    (property "Reference" "C210" (at 35.3441 29.8426 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 35.3441 31.7636 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 33.02 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 33.02 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 87dbeb33-68b7-48a8-af5e-764043345737))
+    (pin "2" (uuid 7cd935e4-830d-4fff-9431-fc65f940d84a))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C210") (unit 1)
         )
       )
     )
@@ -12606,6 +12892,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C226") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 53.975 26.035 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid bc720afb-04c4-43c7-bf0f-c521836ae2f3)
+    (property "Reference" "C222" (at 56.2991 25.3976 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 56.2991 27.3186 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I" (at 53.975 26.035 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 53.975 26.035 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 62331112-13b7-4e4a-895a-8c4afa875355))
+    (pin "2" (uuid d934ca87-fc23-49ba-b34b-69443faf8647))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C222") (unit 1)
         )
       )
     )
@@ -13151,6 +13463,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "L4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 34.29 38.1 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid cfc47969-b290-4c7b-a9d2-831b14770060)
+    (property "Reference" "C224" (at 36.6141 37.4626 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 36.6141 39.3836 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 34.29 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 34.29 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2ff5ccb1-0b40-47d2-ac42-fff4cb65b2ec))
+    (pin "2" (uuid 1b3f7805-273c-4674-9cbd-64a5aa94d9e7))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C224") (unit 1)
         )
       )
     )
@@ -13884,6 +14222,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 21.59 38.1 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e05f6a24-4210-4fc2-88fc-7352aa302f5c)
+    (property "Reference" "C213" (at 23.9141 37.4626 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "2.2u" (at 23.9141 39.3836 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 21.59 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 21.59 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8a645eb5-8a58-43f0-9eea-79a2ceca8415))
+    (pin "2" (uuid 2bd42ae3-4d59-4403-bfa2-2e19383e0ad6))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C213") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C_Small") (at -73.66 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e21befb3-1e30-441c-a364-2c625a6be2b2)
@@ -14298,6 +14662,32 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 33.655 34.29 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e73e9e0b-490c-4bda-a6ee-81dc351324c6)
+    (property "Reference" "C221" (at 35.9791 33.6526 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1u" (at 35.9791 35.5736 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 33.655 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 33.655 34.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6323bc65-3737-4627-8b8a-257e708d9c56))
+    (pin "2" (uuid 9bb94721-441e-43a6-a7d8-83495cabdd9b))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C221") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C_Small") (at -55.88 84.455 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e853358e-a208-42ed-b374-01316000f421)
@@ -14345,6 +14735,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 33.02 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ea191824-4af0-48d0-bb57-1e359b456ad7)
+    (property "Reference" "C185" (at 35.3441 22.2226 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "10u" (at 35.3441 24.1436 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 33.02 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 33.02 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 55fb2864-bfb4-4f20-b425-ed6645153bad))
+    (pin "2" (uuid 66d76ca9-a9cc-45a8-ae6c-fa50d20414b3))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "C185") (unit 1)
         )
       )
     )
