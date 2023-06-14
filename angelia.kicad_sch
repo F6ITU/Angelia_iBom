@@ -8947,6 +8947,32 @@
     )
   )
 
+  (symbol (lib_id "Device:R_Small") (at 24.13 61.595 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 3f22829a-dcfd-4959-ac23-aa9138e1bef2)
+    (property "Reference" "R139" (at 25.6286 60.9513 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "5K11" (at 25.6286 62.8723 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 24.13 61.595 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 24.13 61.595 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e2ba3afc-3e55-49d0-a79a-129e01ef86cb))
+    (pin "2" (uuid 7ead221a-1943-4675-b7be-1799efc857c1))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "R139") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:L") (at -118.745 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3f852ddd-be09-4f73-9d32-1e07d0b05dd0)
@@ -10936,6 +10962,32 @@
       (project "angelia"
         (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
           (reference "C10") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R_Small") (at 15.24 61.595 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 629e65b9-7c2a-43a2-af00-a27648f98db4)
+    (property "Reference" "R128" (at 16.7386 60.9513 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "5K11" (at 16.7386 62.8723 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 15.24 61.595 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 15.24 61.595 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 84cd26b9-e3c5-4f2e-b3a8-f4cbc7f75367))
+    (pin "2" (uuid 595874dd-f4f1-44c4-8401-aaa9d5007163))
+    (instances
+      (project "angelia"
+        (path "/2b733a3a-238e-4552-84a8-ec9891c3916f"
+          (reference "R128") (unit 1)
         )
       )
     )
